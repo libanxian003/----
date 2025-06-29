@@ -1,4 +1,4 @@
-#java控制流  6-25
+## java控制流  6-25
 - java中的boolean就是true和false，而不是像C++是0和1
   - 因此不能将整数赋值给boolean
 ```java
@@ -23,3 +23,13 @@ switch (表达式) {
 ```
 - continue 用于控制本次循环结束，开始下次循环
 - break 结束整个循环
+## java数组 6-26
+- java数组能体现java面向对象的特点
+```java
+int[] arr={1,2,3};//能够明显看出java中的数组是当成一个类对象的
+```
+- arr是一个类对象，可以通过`arr.length`来计算长度，注意length是属性而不是方法
+- 注意字符串的长度是通过调用方法来获取的`str.length()`
+- 数组的动态初始化
+  - 数据类型默认是0
+  - String类型默认是空格
