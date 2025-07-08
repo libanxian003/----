@@ -21,3 +21,11 @@
   - 正确比较
     - equals
     - equalsIgnoreCase
+## Stringbuilder类
+- 一个容器便于对字符串进行操作
+- 最后还要变回字符串
+- 链式编程
+```java
+StringBuilder AA=new StringBuilder();
+AA.append(123).append(345);
+```
