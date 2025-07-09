@@ -1,4 +1,4 @@
-package summerVacation.javaStudy.methodCode;
+package summerVacation.javaBase.methodCode;
 
 import java.util.Scanner; 
 public class Login {

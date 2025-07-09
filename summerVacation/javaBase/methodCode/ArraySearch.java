@@ -1,4 +1,4 @@
-package summerVacation.javaStudy.methodCode;
+package summerVacation.javaBase.methodCode;
 
 public class ArraySearch {
     public static void main(String[] args) {

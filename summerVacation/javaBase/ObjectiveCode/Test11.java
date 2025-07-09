@@ -1,4 +1,4 @@
-package summerVacation.javaStudy.ObjectiveCode;
+package summerVacation.javaBase.ObjectiveCode;
 
 public class Test11 {
     private int aa;

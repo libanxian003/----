@@ -29,3 +29,9 @@
 StringBuilder AA=new StringBuilder();
 AA.append(123).append(345);
 ```
+## Arraylist类
+- 不能存储基本数据类型
+  - 基本数据类型要改成对应包装类
+- 打印的时候有[]
+- 初始化 `Arraylist<String> list=new Arraylsit<>();`
+- 

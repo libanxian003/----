@@ -1,4 +1,4 @@
-package summerVacation.javaStudy.Game;
+package summerVacation.javaBase.Game;
 
 public class GameTest {
     public static void main(String[] args) {

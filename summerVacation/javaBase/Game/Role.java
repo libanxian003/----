@@ -1,4 +1,4 @@
-package summerVacation.javaStudy.Game;
+package summerVacation.javaBase.Game;
 
 import java.util.Random;
 public class Role {
